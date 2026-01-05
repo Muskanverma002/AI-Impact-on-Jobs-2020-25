@@ -23,13 +23,13 @@ This project analyzes the impact of Artificial Intelligence on jobs, revenue gro
 ## 📊 Power BI Dashboard Pages
 
 ### Dashboard – Page 1
-![Dashboard Page 1](dashboard page 1.png)
+![Dashboard Page 1](dashboard_page_1.png)
 
 ### Dashboard – Page 2
-![Dashboard Page 2](dashboard page 2.png)
+![Dashboard Page 2](dashboard_page_2.png)
 
 ### Dashboard – Page 3
-![Dashboard Page 3](dashboard page 3.png)
+![Dashboard Page 3](dashboard_page_3.png)
 
 
 
