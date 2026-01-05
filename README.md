@@ -20,7 +20,6 @@ This project analyzes the impact of Artificial Intelligence on jobs, revenue gro
 - Human–AI collaboration is improving over time
 - Regulatory activity increased as AI adoption grew
 
-## Dashboard Image
-https://github.com/Muskanverma002/AI-Impact-on-Jobs-2020-25/blob/main/dashboard%20page%201.png
+
 
 
